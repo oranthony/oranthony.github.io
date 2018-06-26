@@ -39,7 +39,7 @@ embed {
 
 .video {
     width: 65vw;
-    height: 50vh;
+    height: 65vh;
 }
 
 .demo{
@@ -78,4 +78,7 @@ embed {
 
 .delpech{
     background-color: #85dfff;
+}
+.hand {
+    background-color: lightgray;
 }
